@@ -3,16 +3,9 @@
 # include <thread>
 
 
-struct node {
-	public:
-		node(int d,struct node* n) {
-		int data = d;
-		struct node *next = *n;
-		}
-};
 
 
 int main() {
-	std::cout<<"ok"<<std::endl;
+	std::cout<<"[ Nan ]"<<std::endl;
 	return 0;
 }
