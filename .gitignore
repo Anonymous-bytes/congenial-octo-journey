@@ -28,5 +28,7 @@
 
 # Executables
 *.exe
+*.bin
+*.appimage
 *.out
 *.app
